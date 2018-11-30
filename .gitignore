@@ -1,0 +1,13 @@
+.idea
+.vscode
+*.pyc
+__pycache__
+*.pkl
+*.h5
+*.json
+*.pdf
+*.csv
+*.bak
+*.npy
+*render*
+test*
